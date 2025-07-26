@@ -39,7 +39,9 @@
   <link rel="stylesheet" href="https://mbilse.github.io/mui/mhtmlui-cop.css">
 
 ```
-也可以
+这样也是可以的
+
+---
 
 #### 性能与服务基于html实现
 #### Copyright 2025 Mbilse All right reserved.
