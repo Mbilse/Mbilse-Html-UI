@@ -23,5 +23,23 @@
 4：可复制版：适用多重于人与人之前互相分享文件时使用。
 5：美观版：只靠页面美，性能适用于轻量级个人搭建服务。
 
+### 快速开始
+
+没什么可说的，只要会html就可以
+在你的HTML中插入
+```html
+
+  <link rel="stylesheet" href="https://mbilse.github.io/mui/mhtmlui-min.css">
+
+```
+就可以了(你也可以用套餐中的英文)，例如
+
+```html
+
+  <link rel="stylesheet" href="https://mbilse.github.io/mui/mhtmlui-cop.css">
+
+```
+也可以
+
 #### 性能与服务基于html实现
 #### Copyright 2025 Mbilse All right reserved.
